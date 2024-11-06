@@ -13,3 +13,8 @@ strong{
     color: black;
     font-family: 'Times New Roman', Times, serif;
 }
+ol{
+    font-family: serif;
+    color: rgb(145, 100, 300);
+    font-size: 18px;
+}
