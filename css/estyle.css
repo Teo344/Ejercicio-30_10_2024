@@ -18,3 +18,15 @@ ol{
     color: rgb(145, 100, 300);
     font-size: 18px;
 }
+
+dd{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: azure;
+    font-size: 20px;
+}
+
+dt{
+    font-family: 'Times New Roman', Times, serif;
+    color: darkblue;
+    font-size: 25px;
+}
