@@ -21,7 +21,7 @@ ol{
 
 dd{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: azure;
+    color: darkred;
     font-size: 20px;
 }
 
@@ -29,4 +29,28 @@ dt{
     font-family: 'Times New Roman', Times, serif;
     color: darkblue;
     font-size: 25px;
+}
+
+footer{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(255, 0, 149);
+}
+
+.estilop {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+#caracteristicas{
+    color: rgb(205, 226, 43);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.container{
+    max-width: 800px;
+    text-align: center;
+    margin: auto;
+
 }
